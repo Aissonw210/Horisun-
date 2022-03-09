@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## INTRODUCTION
+Hello Everyone my name is **Aisson Washington**  and I'm glad to be in this program and Today. I will be introducing myself and show this digital webpage I made.
 
-You can use the [editor on GitHub](https://github.com/Aissonw210/Horisun-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Where I'm From
+I live in the Pennsalvainya, Philadelphia. I'm 19 years old and graudate highschool last summer of June 2021, before this program I was a Trade Program called YOCAP, I wanted to become a Carpenter. during that program I've gotten an Opportunity in Coding and Programming, I was a member of the program at temple until I've gotten another programming opportunity in Penn's Bootcamp and well you've know rest of the story.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## Hobbies
+**Writing**
+**Traveling**
+**Comics/ Movies**
+**Workout & Self Care**
+**Cooking**
+**Cleaning**
 
 - Bulleted
 - List
