@@ -5,7 +5,7 @@ Hello Everyone my name is **Aisson Washington**  and I'm glad to be in this prog
 I live in the Pennsalvainya, Philadelphia. I'm 19 years old and graudate highschool last summer of June 2021, before this program I was a Trade Program called YOCAP, I wanted to become a Carpenter. during that program I've gotten an Opportunity in Coding and Programming, I was a member of the program at temple until I've gotten another programming opportunity in Penn's Bootcamp and well you've know rest of the story.
 
 ## Hobbies
-**Writing**
+**Writing:**
 **Traveling**
 **Comics/ Movies**
 **Workout & Self Care**
