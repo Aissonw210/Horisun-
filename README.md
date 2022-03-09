@@ -12,5 +12,4 @@ I live in the Pennsalvainya, Philadelphia. I’m 19 years old and graudate highs
 - **Comics:** I'm a comic nerd, mostly in marvel or manga. one of the best comics I read was Marvel's Infinity Gauntlet. which influenced me to read more comics and search more of lore of many stories of comics.
 
 - **Movies:** Superhero movies,Comedy Movies, fantasy or science fiction genre of movies are my all time high favorite types of films. like marvel movies or movies that have  great storyline and movies that are classics, the ones I trully love like Shrek,Lion King, Avatar, Animated shows and mangas.
-
-
+### WHY DID I JOIN THIS PROGRAM###
