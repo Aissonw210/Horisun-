@@ -1,39 +1,16 @@
-## WELCOME EVERYONE
-You can use the [editor on GitHub](https://github.com/Aissonw210/Horisun-acessability-Refactor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+Hello Everyone my name is **Aisson Washington** and I’m glad to be in this program and Today. I will be introducing myself and show this digital webpage I made.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Where I’m From
+I live in the Pennsalvainya, Philadelphia. I’m 19 years old and graudate highschool last summer of June 2021, before this program I was a Trade Program called YOCAP, I wanted to become a Carpenter. during that program I’ve gotten an Opportunity in Coding and Programming, I was a member of the program at temple until I’ve gotten another programming opportunity in Penn’s Bootcamp and well you’ve know rest of the story.
 
-### Introduction
+### Hobbies
+- **Writing:** one of my favorite hobbies is creative writing, when i have free time. I  write screenplays, storylines and short stories for fun and just to boost my creativity. my favorite genre of books are fantasty or science fiction to read or write about. i
+- 
+- **Traveling:** I like to travel and see new places like restuarants, stores and cities.  I went and travel to different places like New York, Los Angeles and Florida etc. but for small travels I'll mostly go on trails and be around nature. that's  where I clear my head and be fully relaxed.
+- 
+- **Comics:** I'm a comic nerd, mostly in marvel or manga. one of the best comics I read was Marvel's Infinity Gauntlet. which influenced me to read more comics and search more of lore of many stories of comics.
+- 
+- **Movies:** Superhero movies,Comedy Movies, fantasy or science fiction genre of movies are my all time high favorite types of films. like marvel movies or movies that have  great storyline and movies that are classics, the ones I trully love like Shrek,Lion King, Avatar, Animated shows and mangas.
+- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Biography 
-## Why I Joined the Bootcamp Program
-### Header 3 
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aissonw210/Horisun-acessability-Refactor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
